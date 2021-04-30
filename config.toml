@@ -1,0 +1,45 @@
+baseURL = "https://merwane.me"
+languageCode = "en-us"
+title = "Merwane Drai"
+theme = "etch"
+
+[params]
+  description = "Your site description"
+  dark = "off"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "Twitter"
+    name = "Twitter"
+    title = "Twitter"
+    url = "https://twitter.com/merwanedr"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "GitHub"
+    name = "GitHub"
+    title = "GitHub"
+    url = "https://github.com/merwane"
+    weight = 30
+
+   [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    title = "Contact"
+    url = "mailto:merwanedr@gmail.com"
+    weight = 40
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true

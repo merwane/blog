@@ -30,13 +30,6 @@ theme = "etch"
     url = "https://github.com/merwane"
     weight = 30
 
-   [[menu.main]]
-    identifier = "Contact"
-    name = "Contact"
-    title = "Contact"
-    url = "mailto:merwanedr@gmail.com"
-    weight = 40
-
 [permalinks]
   posts = "/:title/"
 

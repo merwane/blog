@@ -1,6 +1,6 @@
 ---
 title: "Where work is headed"
-date: 2021-05-05T14:18:37+02:00
+date: 2021-05-05T14:19:37+02:00
 draft: false
 ---
 

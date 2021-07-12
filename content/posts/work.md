@@ -14,7 +14,7 @@ _**Globalization:**_ You can be Indian and work for an American company from the
 
 **2020s:**
 
-_**Remote:**_ You can work for anyone, independently of location. You don’t align on location anymore but rather on timezones, ergo the Y axis becomes your only geographic constraint.
+_**Remote:**_ You can work for anyone, independently of location. You are only partially limited by location anymore and merely depend on timezones, ergo the Y axis becomes your only geographic constraint.
 
 _**Asynchronous remote:**_ The Y axis doesn’t matter anymore and coordination around time is occasional. You work by completing your set of tasks whenever you want, meetings are minimal. Your backlog is everything. Soft skills matter less.
 

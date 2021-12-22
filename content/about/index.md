@@ -2,7 +2,7 @@
 draft: false
 ---
 
-![Merwane](/merwane.jpg)
+<img src="/merwane.jpg" alt="drawing" width="150"/>
 
 I'm Merwane. This is my corner of the www.
 

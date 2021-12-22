@@ -2,7 +2,7 @@
 draft: false
 ---
 
-<img src="/merwane.jpg" alt="drawing" width="150"/>
+<img src="/merwane.jpg" alt="drawing" width="150" style="padding-left: 25px;"/>
 
 I'm Merwane. This is my corner of the www.
 

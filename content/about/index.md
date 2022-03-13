@@ -25,4 +25,17 @@ If you're 16-29 you should:
 If you're 30+:
 - Do the 20s stuff minus the drop out part.
 
+Work on problems that can eventually help solve:
+- AGI
+- Energy too cheap to meter (This probably means nuclear power)
+- Brain/computer interfaces (I know kung-fu type of tech)
+- Economic freedom on a civilizational level
+
+Don't work on problems that will lead to more:
+- Monetization of eyeballs
+- Economic oppression
+- Closed ecosystems
+
+The endgame is to gain control over nature.
+
 Reach out on [Telegram](https://t.me/merwanedr) or send me an email [(merwanedr@gmail.com)](#) if you want to talk about computers, distributed systems, AI, crypto, or if you want a job at [chaingrep](mailto:merwane@chaingrep.com).

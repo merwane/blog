@@ -25,4 +25,4 @@ If you're 16-29 you should:
 If you're 30+:
 - Do the 20s stuff minus the drop out part.
 
-Reach out on [Telegram](https://t.me/merwanedr) or send me an email [(merwanedr@<gmail>.com)](#) if you want to talk about computers, distributed systems, AI, crypto, or if you want a job at [chaingrep](https://chaingrep.com).
+Reach out on [Telegram](https://t.me/merwanedr) or send me an email [(merwanedr@gmail.com)](#) if you want to talk about computers, distributed systems, AI, crypto, or if you want a job at [chaingrep](https://chaingrep.com).

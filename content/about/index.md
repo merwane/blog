@@ -20,7 +20,7 @@ If you're 16-29 you should:
 - Drop out of university if you already know what you want and feel like you're wasting your 20s.
 - Instead, you can start a company and apply to YC where you'll meet way more unconventional people.
 - Read all these books.
-- Not be in TikTok.
+- Not be on TikTok.
 
 If you're 30+:
 - Do the 20s stuff minus the drop out part.

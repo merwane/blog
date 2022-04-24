@@ -1,6 +1,6 @@
 ---
 title: "Human-readable Blockchains"
-date: 2022-04-24T14:18:31+02:00
+date: 2022-04-23T14:18:31+02:00
 draft: false
 ---
 

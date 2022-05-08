@@ -13,12 +13,16 @@ Some good reads:
 - Zero to One
 - Paul Graham's essays
 - Masters of Doom
+- Snow Crash
+- The Metamorphosis of Prime Intellect
 
 If you're 16-29 you should:
 - Think about building something (anything!)
 - Learn to hack (it's a superpower and will help you think)
+- If you already write code, try different paradigms.
 - Drop out of university if you already know what you want and feel like you're wasting your 20s.
 - Instead, you can start a company and apply to YC where you'll meet way more unconventional people.
+- Alternatively you can join a team and work on something interesting.
 - Read all these books.
 - Not be on TikTok.
 
@@ -36,6 +40,6 @@ Don't work on problems that will lead to more:
 - Economic oppression
 - Closed ecosystems
 
-The endgame is to gain control over nature.
+The endgame of technology is to gain control over nature.
 
-Reach out on [Telegram](https://t.me/merwanedr) if you want to talk about computers, distributed systems, AI, crypto, or if you want a job at [chaingrep](mailto:jobs@chaingrep.com).
+Reach out on [Telegram](https://t.me/merwanedr) if you want to talk about computers, distributed systems, AI, crypto, or if you want to work with me at [chaingrep](mailto:jobs@chaingrep.com).

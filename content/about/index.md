@@ -40,6 +40,11 @@ Don't work on problems that will lead to more:
 - Economic oppression
 - Closed ecosystems
 
+Some rules for life:
+- Embrace tradition over modernity
+- Go deep on things
+- It's probably true if HN says it's not
+
 The endgame of technology is to gain control over nature.
 
-Reach out on [Telegram](https://t.me/merwanedr) if you want to talk about computers, distributed systems, AI, crypto, or if you want to work with me at [chaingrep](mailto:jobs@chaingrep.com).
+Reach out on [Telegram](https://t.me/merwanedr) if you want to talk about computers, society or if you want to work with me at [chaingrep](mailto:jobs@chaingrep.com).
